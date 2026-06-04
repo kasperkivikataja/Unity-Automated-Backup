@@ -11,6 +11,6 @@ _______________________________________________________________
 (**Optional**)<br>
 4. You can also add a task to your task scheduler:<br>
 
-Action: Start a Program
-Program: powershell.exe
-Details: -NoProfile -ExecutionPolicy Bypass -File "C:\your path here\Backup_Unity.ps1"
+**Action**: Start a Program<br>
+**Program**: powershell.exe<br>
+**Details**: -NoProfile -ExecutionPolicy Bypass -File "C:\your path here\Backup_Unity.ps1"
