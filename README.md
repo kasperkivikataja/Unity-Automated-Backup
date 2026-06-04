@@ -8,8 +8,8 @@ Automated PowerShell script that compresses a Unity project (Assets, ProjectSett
 
 _______________________________________________________________
 
-(Optional)
-4. You can also add a task to your task scheduler:
+(**Optional**)<br>
+4. You can also add a task to your task scheduler:<br>
 
 Action: Start a Program
 Program: powershell.exe
